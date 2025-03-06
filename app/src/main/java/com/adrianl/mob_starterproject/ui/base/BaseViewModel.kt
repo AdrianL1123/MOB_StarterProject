@@ -1,4 +1,4 @@
-package com.adrianl.mob_starterproject.base
+package com.adrianl.mob_starterproject.ui.base
 
 import androidx.lifecycle.ViewModel
 import kotlinx.coroutines.flow.MutableSharedFlow

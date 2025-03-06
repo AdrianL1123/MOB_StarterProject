@@ -1,4 +1,4 @@
-package com.adrianl.mob_starterproject.home
+package com.adrianl.mob_starterproject.ui.home
 
 import androidx.fragment.app.viewModels
 import android.os.Bundle
@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.adrianl.mob_starterproject.R
-import com.adrianl.mob_starterproject.base.BaseFragment
+import com.adrianl.mob_starterproject.ui.base.BaseFragment
 import com.adrianl.mob_starterproject.databinding.FragmentHomeBinding
 import dagger.hilt.android.AndroidEntryPoint
 
